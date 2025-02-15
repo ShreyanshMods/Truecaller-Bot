@@ -59,11 +59,11 @@ var buttons = [
   [
     {
       text: "👉 Telegram",
-      url: "https://t.me/codingwithmohit"
+      url: "https://t.me/Tech_Shreyansh2"
     },
     {
       text: "👉 YouTube",
-      url: "https://youtube.com/@codingwithmohit05"
+      url: "https://youtube.com/@TechSHreyansh"
     }
   ],
   [
