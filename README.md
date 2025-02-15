@@ -1,5 +1,5 @@
 # Truecaller Bot ⚡ - chat bot
-It is repository for chat bot: [@Truecaller Bot ⚡](https://t.me/Truecaller Bot ⚡)
+It is repository for chat bot: [@Truecaller Bot ⚡](https://t.me/Truecallersinfobot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
