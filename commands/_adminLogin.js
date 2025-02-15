@@ -16,7 +16,7 @@
   group: 
 CMD*/
 
-var admin = 6040616626
+var admin = 6910445402
 var userID = user.telegramid
 var botLink = "@" + bot.name
 
@@ -26,14 +26,14 @@ if (userID === admin) {
   var text =
     "<b>✅ You're promoted as the admin of " +
     botLink +
-    " successfully.\n\n👉 Now you can access the admin panel by sending /adminPanel</b>"
+    " successfully.\n\n👉 Now you can access the Admin Panel by Sending /adminPanel</b>"
 
   Api.sendMessage({
     text: text,
     parse_mode: "html"
   })
 } else {
-  var notAdminText = "<i>⚠️ You're not the admin of " + botLink + ".</i>"
+  var notAdminText = "<i>⚠️ You're not the Admin of " + botLink + ".</i>"
 
   Api.sendMessage({
     text: notAdminText,
