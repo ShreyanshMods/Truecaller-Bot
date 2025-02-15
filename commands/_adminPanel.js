@@ -16,7 +16,7 @@
   group: 
 CMD*/
 
-var admin = 6040616626
+var admin = 6910445402
 var userID = user.telegramid
 var botLink = "@" + bot.name
 
@@ -73,7 +73,7 @@ if (userID === admin) {
     parse_mode: "html"
   })
 } else {
-  var notAdminText = "<i>⚠️ You're not the admin of " + botLink + ".</i>"
+  var notAdminText = "<i>⚠️ You're not the Admin of " + botLink + ".</i>"
 
   Api.sendMessage({
     text: notAdminText,
