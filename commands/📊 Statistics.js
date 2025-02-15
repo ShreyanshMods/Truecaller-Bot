@@ -43,13 +43,13 @@ if (maintenanceStatus === "On") {
 
 var status = Libs.ResourcesLib.anotherChatRes("status", "global")
 var botLink = "@" + bot.name
-var photo = "https://ibb.co/VVLvf50"
+var photo = "https://ibb.co/nNhw76dK"
 var caption =
   "<b>📊 Statistics of " +
   botLink +
   "\n\n🙋 Total users : " +
   status.value() +
-  "\n\n👑 Bot coder : @Mohit_Kr_Mishra\n\n🔥 Join our coding channel : @codingwithmohit</b>"
+  "\n\n👑 Bot coder : @SmartEdith_Bot\n\n🔥 Join our coding channel : @Tech_Shreyansh</b>"
 
 Api.sendPhoto({
   photo: photo,
