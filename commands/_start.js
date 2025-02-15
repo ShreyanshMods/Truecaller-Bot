@@ -76,7 +76,7 @@ var channel2 = Bot.getProperty("channel2")
 var channel4 = Bot.getProperty("channel4")
 var channel5 = Bot.getProperty("channel5")
 var channel6 = Bot.getProperty("channel6")*/
-var photo = "https://ibb.co/VVLvf50"
+var photo = "https://ibb.co/nNhw76dK"
 var text =
   "<b>💯 In order to start the bot you must have to join our channel(s).</b>"
 
