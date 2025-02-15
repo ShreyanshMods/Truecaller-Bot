@@ -10,7 +10,7 @@
 
 👉 Example :* `IN 9999999999`
 
-*🔥 List of country codes : codingwithmohit.rf.gd/listOfCountryCodes.txt*
+*🔥 List of country codes : https://raw.githubusercontent.com/ShreyanshMods/Truecaller-Bot/refs/heads/BB_Export_1739638209/listOfCountryCodes.txt*
   ANSWER
   keyboard: ❌ Cancel
   aliases: 
